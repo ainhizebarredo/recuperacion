@@ -94,3 +94,4 @@ ejercicio1<-final%>%
 ejericio1<-ejercicio1%>%
   arrange(desc(suma))%>%
   head(1)
+print(ejericio1)
